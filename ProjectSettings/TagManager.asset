@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Spaceship
+  - WeaponUI
+  - GameplayCamera
+  - WeaponSlot
+  - Weapon Manager
+  - Crosshair
+  - Cannon Holder
+  - Enemy
+  - EnemyPool
+  - WaveSource
+  - WaveCounter
+  - PlayerFiringPoint
+  - ItemBackdrop
+  - ScrapContainer
+  - ScrapCounter
+  - GameHandler
+  - Canvas
+  - NextWaveButton
+  - MenuMusic
+  - GameMusic
+  - DyingSFX
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - Projectiles
+  - Obstacles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 
+    uniqueID: 975545955
+    locked: 0
+  - name: 
+    uniqueID: 1304256001
+    locked: 0

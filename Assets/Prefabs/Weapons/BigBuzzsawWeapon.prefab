@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8952658950941835905
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 970500027, guid: a44e9de6410661e4b8a1c9ed54c27e00, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: c46d8d0a80135dd46b5fabf5e8afb81c,
+        type: 3}
+    - target: {fileID: 5461087729086153399, guid: a44e9de6410661e4b8a1c9ed54c27e00,
+        type: 3}
+      propertyPath: m_Name
+      value: BigBuzzsawWeapon
+      objectReference: {fileID: 0}
+    - target: {fileID: 6913045551869049740, guid: a44e9de6410661e4b8a1c9ed54c27e00,
+        type: 3}
+      propertyPath: Projectile
+      value: 
+      objectReference: {fileID: 8706956853576467463, guid: d695afec8b373f34d945de4162d0c179,
+        type: 3}
+    - target: {fileID: 6913045551869049740, guid: a44e9de6410661e4b8a1c9ed54c27e00,
+        type: 3}
+      propertyPath: IsAutomatic
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6913045551869049740, guid: a44e9de6410661e4b8a1c9ed54c27e00,
+        type: 3}
+      propertyPath: ClicksToFire
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6913045551869049740, guid: a44e9de6410661e4b8a1c9ed54c27e00,
+        type: 3}
+      propertyPath: FiringCooldown
+      value: 0.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 6913045551869049740, guid: a44e9de6410661e4b8a1c9ed54c27e00,
+        type: 3}
+      propertyPath: OverheatPerShot
+      value: 45
+      objectReference: {fileID: 0}
+    - target: {fileID: 6913045551869049740, guid: a44e9de6410661e4b8a1c9ed54c27e00,
+        type: 3}
+      propertyPath: CoolingPerSecond
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 6913045551869049740, guid: a44e9de6410661e4b8a1c9ed54c27e00,
+        type: 3}
+      propertyPath: FiringSoundEffectPrefab
+      value: 
+      objectReference: {fileID: 7379911712322624428, guid: f5e310a83577cab479f09a7544553684,
+        type: 3}
+    - target: {fileID: 8195280981430800809, guid: a44e9de6410661e4b8a1c9ed54c27e00,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8195280981430800809, guid: a44e9de6410661e4b8a1c9ed54c27e00,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8195280981430800809, guid: a44e9de6410661e4b8a1c9ed54c27e00,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8195280981430800809, guid: a44e9de6410661e4b8a1c9ed54c27e00,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8195280981430800809, guid: a44e9de6410661e4b8a1c9ed54c27e00,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8195280981430800809, guid: a44e9de6410661e4b8a1c9ed54c27e00,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a44e9de6410661e4b8a1c9ed54c27e00, type: 3}

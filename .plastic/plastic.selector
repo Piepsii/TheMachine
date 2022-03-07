@@ -1,0 +1,4 @@
+repository "5SD064TEAM8_2020@193.11.10.9:8087"
+  path "/"
+    smartbranch "/main" changeset "434"                                                                                                                                                                                                                                                                                                                            
+     
